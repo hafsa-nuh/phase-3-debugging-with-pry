@@ -1,3 +1,4 @@
+# require 'pry' is a method that loads the pry library in this file when our application runs, similar to using the import
 require 'pry'
 
 def prying_into_the_method
